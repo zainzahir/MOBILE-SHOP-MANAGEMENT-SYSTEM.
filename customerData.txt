@@ -1,0 +1,9 @@
+zain,123,Zain Zahir,03404080222,01-02-2003,male,Gojra
+ali,ali212,Ali Ahmed,03415080433,05-06-2002,male,Faisalabad
+sara,sara789,Sara Khan,03204560789,15-08-2004,female,Lahore
+ahmed,ahmed101,Ahmed Raza,03124070822,12-03-2001,male,Karachi
+zaza,2345678,asjad,03454454569,29-02-2024,male,gdshjhds
+ahmad,123,Ahmad,03451010222,05-11-2010,male,gojra
+ahmad,,ahmad,03352525296,17-09-2006,male,toba
+zazaza,,zaza,03352525296,17-08-2007,male,toba tek singh
+zaza,,zaza,03459010222,05-11-2005,male,tekh singh

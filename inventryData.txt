@@ -1,0 +1,6 @@
+oppo,oppo f21 pro,128 gb,4300 mah battery,orange,zahir,17,98000,101000,15,1
+Samsung,Galaxy S21,128 GB,4000 mAh battery,Black,Samsung Corp,48,70000,75000,10,2
+Apple,iPhone 13,256 GB,3100 mAh battery,Blue,Apple Inc,0,120000,130000,15,3
+OPPO,find xx,43 GB,100 MP camera,orange,zahir,10,10,15,5,4
+Xiaomi,Redmi Note 10,64 GB,5020 mAh battery,White,Xiaomi Corp,40,15000,18000,12,6
+oPPO,oppo find x,256 GB,100MP cam,sunset,zaid,8,38000,40000,5,8
